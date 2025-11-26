@@ -143,7 +143,28 @@ alumni_data.txt
 
 ### **ScreenShots**
 
+**Adding Alumni**
 
+<p align="center">
+<img src="Adding Alumni.jpg" width="500">
+</p>
 
+**Displaying Alumni**
 
-  
+<p align="center">
+<img src="Displaying Alumni.jpg" width="500">
+</p>
+
+**Searching Alumni**
+
+<p align="center">
+<img src="Searching Alumni.jpg" width="500">
+</p>
+
+**Removing Alumni**
+
+<p align="center">
+<img src="Removing Alumni.jpg" width="500">
+</p>
+
+   -----
